@@ -36,7 +36,7 @@
             <div class="card p-4 p-md-5">
                 <h3 class="mb-1">考生登录</h3>
                 <div class="text-muted mb-3">请输入学号与姓名进入考试系统</div>
-
+                <!-- test commit -->
                 <% String err = request.getParameter("error");
                     if ("1".equals(err)) { %>
                 <div class="alert alert-danger" role="alert">
