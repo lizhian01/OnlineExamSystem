@@ -1,0 +1,59 @@
+:root{
+    --brand:#0d6efd;
+    --bg:#f6f8fb;
+}
+
+body{
+    background: var(--bg);
+}
+
+.navbar-brand{
+    font-weight: 700;
+    letter-spacing: .5px;
+}
+
+.card{
+    border: 0;
+    border-radius: 16px;
+    box-shadow: 0 10px 30px rgba(16,24,40,.08);
+}
+
+.btn{
+    border-radius: 10px;
+}
+
+.form-control{
+    border-radius: 10px;
+}
+
+.badge{
+    border-radius: 999px;
+    padding: .5em .8em;
+}
+
+.question-card{
+    border: 1px solid rgba(0,0,0,.06);
+    border-radius: 14px;
+    padding: 14px 14px;
+    background: #fff;
+    transition: transform .08s ease, box-shadow .08s ease;
+}
+
+.question-card:hover{
+    transform: translateY(-1px);
+    box-shadow: 0 10px 20px rgba(16,24,40,.06);
+}
+
+.timer-pill{
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    padding: 6px 12px;
+    border-radius: 999px;
+    background: #fff;
+    border: 1px solid rgba(0,0,0,.06);
+}
+
+small.muted{
+    color: rgba(0,0,0,.55);
+}
