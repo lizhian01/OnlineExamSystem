@@ -1,4 +1,4 @@
-<img width="395" height="113" alt="image" src="https://github.com/user-attachments/assets/10a6bd0b-4905-4817-9fa3-da9f69df0452" /># 在线考试系统
+# 在线考试系统
 
 这是一个基于Java的在线考试系统项目，适用于教育机构或企业内部培训评估场景。系统提供了用户登录、题库管理、考试记录、成绩统计等核心功能，并采用MVC架构结合Servlet和FreeMarker模板引擎实现。
 
