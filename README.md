@@ -1,7 +1,7 @@
 # 在线考试系统
 
 这是一个基于Java的在线考试系统项目，适用于教育机构或企业内部培训评估场景。系统提供了用户登录、题库管理、考试记录、成绩统计等核心功能，并采用MVC架构结合Servlet和FreeMarker模板引擎实现。
-
+欢迎大家帮我添加新功能和美化页面 感谢！！！
 ## 项目结构概览
 
 - **`DBUtil.java`**：数据库连接工具类，用于获取数据库连接。
@@ -109,8 +109,7 @@ http://localhost:8080/onlineexamsystem
 
 ## 贡献指南
 
-欢迎贡献代码或改进文档。请遵循以下步骤：
-
+贡献代码或改进文档。请遵循以下步骤：
 1. Fork 项目仓库
 2. 创建新分支 (`git checkout -b feature/new-feature`)
 3. 提交更改 (`git commit -am 'Add new feature'`)
@@ -125,4 +124,4 @@ http://localhost:8080/onlineexamsystem
 
 如有问题，请提交 Issue 或联系作者：
 
-- Gitee 主页：[https://gitee.com/lizhien518](https://gitee.com/lizhien518)
+- GitHub 主页：[https://github.com/lizhian01]
