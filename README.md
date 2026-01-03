@@ -37,13 +37,17 @@
 
 - **首页**：展示核心功能模块。
 - <img width="331" height="238" alt="image" src="https://github.com/user-attachments/assets/7f089236-ce14-44fc-beed-d643a46f7f98" />
+
 - **考试题库管理**：提供题目的增删改查功能。
 - <img width="486" height="356" alt="image" src="https://github.com/user-attachments/assets/29a89007-c8ba-421d-b634-6990eb960abe" />
 <img width="328" height="439" alt="image" src="https://github.com/user-attachments/assets/7aeff239-d2b5-47ea-973c-c1b0813797d1" />
+
 - **考试记录查看**：查看历史考试记录。
 - <img width="486" height="214" alt="image" src="https://github.com/user-attachments/assets/f3a4d113-2075-43e2-bb57-17f068d75acf" />
+
 - **成绩统计页面**：以图表或列表形式展示考试成绩。
 - <img width="395" height="199" alt="image" src="https://github.com/user-attachments/assets/440cd3ef-44c2-4779-9fc3-c720695f02d8" />
+
 - **用户管理界面**：管理员可管理用户账户。
 - **主题与插件设置**：支持自定义主题和第三方插件配置（如GitHub、微博登录等）。
 
